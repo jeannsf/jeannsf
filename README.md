@@ -7,7 +7,7 @@
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Jean! A passionate programming student focused on back-end development from Brazil. <br>
-  - 🔭 I am currently a Back-End Developer at Sumé Tecnologia, and sometimes work as a Full Stack Developer. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I am currently a Back-End Developer, and sometimes work as a Full Stack Developer.
 </p>
 
 <!-- Dropdown -->
